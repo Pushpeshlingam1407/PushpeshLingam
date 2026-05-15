@@ -1,17 +1,15 @@
+ id="03k1xr"
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=PushpeshLingam&fontAlign=50&fontAlignY=40&color=0:0D1117,100:1F2937&fontColor=ffffff&desc=Full%20Stack%20Developer%20•%20AI/ML%20Engineer&descAlignY=60"/>
+
+</div>
 
 <div align="center">
 
-# PushpeshLingam
-
-<p align="center">
-Full Stack Developer • AI/ML Engineer • Systems Builder
-</p>
-
-<p align="center">
 <a href="mailto:pushpeshlingam1407@gmail.com">
 <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-</p>
 
 </div>
 
@@ -21,26 +19,24 @@ Full Stack Developer • AI/ML Engineer • Systems Builder
 
 <div align="center">
 
-![C++](https://img.shields.io/badge/c++-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
-![CSS3](https://img.shields.io/badge/css3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6)
-![Java](https://img.shields.io/badge/java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
-![HTML5](https://img.shields.io/badge/html5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)
-![JavaScript](https://img.shields.io/badge/javascript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-0D1117?style=for-the-badge&logo=typescript&logoColor=007ACC)
-![Python](https://img.shields.io/badge/python-0D1117?style=for-the-badge&logo=python&logoColor=FFD43B)
+![C++](https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
+![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=FFD43B)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=007ACC)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-![Next JS](https://img.shields.io/badge/Next_JS-0D1117?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/react-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=6DA55F)
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next_JS](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=next.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=6DA55F)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=00C7B7)
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
-![MySQL](https://img.shields.io/badge/mysql-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![Docker](https://img.shields.io/badge/docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED)
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED)
 
-![PyTorch](https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=PyTorch&logoColor=EE4C2C)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge&logo=TensorFlow&logoColor=FF6F00)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0D1117?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
+![PyTorch](https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=PyTorch&logoColor=EE4C2C)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-0D1117?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
 
 </div>
 
@@ -59,6 +55,14 @@ Full Stack Developer • AI/ML Engineer • Systems Builder
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=pushpeshlingam1407&theme=tokyonight&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=38BDAE"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pushpeshlingam1407&bg_color=0D1117&color=70A5FD&line=BF91F3&point=FFFFFF&hide_border=true"/>
 
 </div>
 
